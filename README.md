@@ -27,20 +27,24 @@ Me chamo Gustavo e sou natural de São Paulo. Concluí o curso técnico em Desen
 
 ### 📊 Estatísticas
 
-<p>
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gustaflow&hide=contribs,prs)
+
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=gustaflow&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  /> -->
 
-<img 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gustaflow)](https://github.com/stats-organization/github-stats-extended)
+
+<!-- <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustaflow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> -->
 
 </p>
